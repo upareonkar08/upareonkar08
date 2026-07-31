@@ -97,29 +97,26 @@
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=upareonkar08&show_icons=true&theme=midnight-purpur&hide_border=true&count_private=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Onkar's GitHub Stats" width="100%"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upareonkar08&layout=compact&theme=midnight-purpur&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a&langs_count=8" alt="Top Languages" width="100%"/>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=upareonkar08&theme=midnight-purpur&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak Stats" width="100%"/>
-      </td>
-      <td width="50%">
-        <img src="https://leetcard.jacoblin.cool/upareonkar?ext=heatmap&theme=dark&font=Inter" alt="LeetCode Activity" width="100%"/>
-      </td>
-    </tr>
-  </table>
+  <!-- GitHub Streak Stats & LeetCode -->
+  <a href="https://github.com/upareonkar08">
+    <img src="https://streak-stats.demolab.com/?user=upareonkar08&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="48%" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/upareonkar/">
+    <img src="https://leetcard.jacoblin.cool/upareonkar?ext=heatmap&theme=dark&font=Inter" alt="LeetCode Activity" width="48%" />
+  </a>
 
-  <br />
+  <br /><br />
+
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/upareonkar08">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=upareonkar08&theme=react-dark&hide_border=true" alt="GitHub Commit Activity Graph" width="100%" />
+  </a>
+
+  <br /><br />
 
   <!-- Contribution Heatmap Header -->
-  <h4>🗓️ GitHub Activity Heatmap</h4>
+  <h4>🗓️ GitHub Contribution Heatmap</h4>
   <img src="https://ghchart.rshah.org/38bdf8/upareonkar08" alt="Onkar Upare GitHub Contributions Calendar" width="100%" />
 
 </div>
