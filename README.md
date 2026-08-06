@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi 👋, I'm Onkar Upare</h1>
+  
 
   <p align="center">
     <strong>B.Tech AI & ML @ SRMIST (CGPA 8.63) · Full-Stack Developer · Applied AI Engineer</strong>
