@@ -17,6 +17,7 @@
 
 ---
 
+### 🛠️ Technical Stack & Expertise
 
 <div align="center">
 
