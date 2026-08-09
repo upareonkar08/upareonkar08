@@ -153,13 +153,6 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-10B981?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio Website" />
   </a>
 
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=upareonkar08&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
-
-  <br/><br/>
-  <p><i>"Building software that bridges intelligent algorithms with seamless user experiences."</i></p>
-
-</div>
+  
 <!-- Visitor Counter -->
   
