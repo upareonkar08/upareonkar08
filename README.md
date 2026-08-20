@@ -93,7 +93,7 @@
 
 ---
 
-### 📊 GitHub & Coding Analytics
+### 📊 Coding Analytics
 
 <div align="center">
 
