@@ -109,15 +109,7 @@
   <br /><br />
 
   <!-- GitHub Activity Graph -->
-  <a href="https://github.com/upareonkar08">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=upareonkar08&theme=react-dark&hide_border=true" alt="GitHub Commit Activity Graph" width="100%" />
-  </a>
-
-  <br /><br />
-
-  <!-- Contribution Heatmap Header -->
-  <h4>🗓️ GitHub Contribution Heatmap</h4>
-  <img src="https://ghchart.rshah.org/38bdf8/upareonkar08" alt="Onkar Upare GitHub Contributions Calendar" width="100%" />
+  
 
 </div>
 
